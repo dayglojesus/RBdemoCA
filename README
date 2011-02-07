@@ -1,0 +1,11 @@
+Code that demonstrates the creation of a demoCA and certificates.
+This stuff is really old. I found it here...
+
+http://cvs.savannah.gnu.org/viewvc/ossl2/examples/ca/?root=rubypki
+
+There are very few concrete examples of how to use the Ruby OpenSSL library to do anything like this.
+
+I am stashing it for posterity and safekeeping.
+
+-- 
+Brian
